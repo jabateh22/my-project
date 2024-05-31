@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+body{
+    display: grid;
+    margin-top: auto;
+    background-color: transparent;
+    font-family: "Poppins";
+}
+#navbar{
+    display: flex;
+    width: 96vw;
+    height: 50px;
+    padding: 20px 20px 0px 20px;
+    background: #f4f4f5;
+    border-radius: 22px ;
+    border-bottom: 10px solid rgb(227, 213, 213);
+}
+ h1{
+    font-size: medium;
+    color: rgb(12, 103, 12);
+    margin-left: 180px;
+
+
+}
+
+#bg img{
+    max-width: 280px;
+    width: auto ;
+    height: 48px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-left: -200px;
+}
+#log img{
+    max-width: 280px;
+    width: auto ;
+    height: 48px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.avocado{
+    margin-top: 20px;
+    background-image: url(Img/avocados-super-food-heart-health-high-cholesterol-722x406.jpg);
+    size: 700px 300px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-repeat: no-repeat;
+    height: 200px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+.topic{
+    margin-top: 22px;
+    float: left;
+    margin-left: 50px;
+}
+h2{
+    margin-left: -72px;
+    font-size: large;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    color: #038f03;
+}
+h3{
+    margin-top: -15px;
+    margin-left: 60px;
+    font-size: x-large;
+    font-family: "DM Sans", sans-serif;
+    font-style: normal;
+    
+}
+h4{
+    margin-top: -18px;
+    margin-right: -42px;
+    font-size:medium;
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: rgb(59, 81, 59);
+    opacity: 0.7;
+}
+button{
+    margin-top: -30px;
+    margin-left: -10px;
+    place-items: center;
+    color: rgb(255, 255, 255);
+    background: #6eaf29;
+    border: 0;
+    padding: 10px 19px;
+    
+}
+#category{
+    display: grid;
+    place-items: center;
+    margin-top: 95px;
+    height: 100vh;
+    background: #f1f0f3;
+    color: #fcfcfc;
+
+}
+
+
+
